@@ -30,10 +30,5 @@ This project is a result of extensive data analysis and visualization efforts. C
 ## License
 This project is licensed under the **MIT License**.
 
-## Contact
-For queries or contributions, feel free to reach out to the project team or open an issue in the repository.
-
----
-
 Thank you for using the **India Weather Forecast Project**!
 
